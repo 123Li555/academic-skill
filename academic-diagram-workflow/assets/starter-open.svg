@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320">
+  <title>时空预测流程起稿</title>
+  <g id="connections">
+    <path d="M 252.000 149.000 L 427.000 149.000" fill="none" stroke="#495963" stroke-width="1.65" />
+    <path d="M 427.000 149.000 L 419.000 145.500 L 419.000 152.500 Z" fill="#495963" stroke="none" stroke-width="1.15" />
+    <path d="M 597.000 149.000 L 724.000 149.000" fill="none" stroke="#495963" stroke-width="1.65" />
+    <path d="M 724.000 149.000 L 716.000 145.500 L 716.000 152.500 Z" fill="#495963" stroke="none" stroke-width="1.15" />
+  </g>
+  <g id="models">
+    <rect x="58" y="37.91" width="4" height="20.7" fill="#506B82" />
+    <path d="M 112.000 114.000 L 118.000 108.000 L 250.000 108.000 L 244.000 114.000 Z" fill="#CFDCE7" stroke="#506B82" stroke-width="1.15" />
+    <path d="M 244.000 114.000 L 250.000 108.000 L 250.000 167.000 L 244.000 173.000 Z" fill="#AFC3D4" stroke="#506B82" stroke-width="1.15" />
+    <rect x="112" y="114" width="132" height="59" fill="#E7EEF4" stroke="#506B82" stroke-width="1.15" />
+    <path d="M 105.000 121.000 L 111.000 115.000 L 243.000 115.000 L 237.000 121.000 Z" fill="#CFDCE7" stroke="#506B82" stroke-width="1.15" />
+    <path d="M 237.000 121.000 L 243.000 115.000 L 243.000 174.000 L 237.000 180.000 Z" fill="#AFC3D4" stroke="#506B82" stroke-width="1.15" />
+    <rect x="105" y="121" width="132" height="59" fill="#E7EEF4" stroke="#506B82" stroke-width="1.15" />
+    <path d="M 131.400 121.000 L 131.400 180.000" fill="none" stroke="#AFC3D4" stroke-width="0.8" />
+    <path d="M 157.800 121.000 L 157.800 180.000" fill="none" stroke="#AFC3D4" stroke-width="0.8" />
+    <path d="M 184.200 121.000 L 184.200 180.000" fill="none" stroke="#AFC3D4" stroke-width="0.8" />
+    <path d="M 210.600 121.000 L 210.600 180.000" fill="none" stroke="#AFC3D4" stroke-width="0.8" />
+    <path d="M 105.000 140.667 L 237.000 140.667" fill="none" stroke="#AFC3D4" stroke-width="0.8" />
+    <path d="M 105.000 160.333 L 237.000 160.333" fill="none" stroke="#AFC3D4" stroke-width="0.8" />
+    <path d="M 452.000 107.000 L 458.000 101.000 L 590.000 101.000 L 584.000 107.000 Z" fill="#CADCD8" stroke="#426A65" stroke-width="1.15" />
+    <path d="M 584.000 107.000 L 590.000 101.000 L 590.000 160.000 L 584.000 166.000 Z" fill="#ACC8C3" stroke="#426A65" stroke-width="1.15" />
+    <rect x="452" y="107" width="132" height="59" fill="#E5EFED" stroke="#426A65" stroke-width="1.15" />
+    <path d="M 445.000 114.000 L 451.000 108.000 L 583.000 108.000 L 577.000 114.000 Z" fill="#CADCD8" stroke="#426A65" stroke-width="1.15" />
+    <path d="M 577.000 114.000 L 583.000 108.000 L 583.000 167.000 L 577.000 173.000 Z" fill="#ACC8C3" stroke="#426A65" stroke-width="1.15" />
+    <rect x="445" y="114" width="132" height="59" fill="#E5EFED" stroke="#426A65" stroke-width="1.15" />
+    <path d="M 438.000 121.000 L 444.000 115.000 L 576.000 115.000 L 570.000 121.000 Z" fill="#CADCD8" stroke="#426A65" stroke-width="1.15" />
+    <path d="M 570.000 121.000 L 576.000 115.000 L 576.000 174.000 L 570.000 180.000 Z" fill="#ACC8C3" stroke="#426A65" stroke-width="1.15" />
+    <rect x="438" y="121" width="132" height="59" fill="#E5EFED" stroke="#426A65" stroke-width="1.15" />
+    <path d="M 464.400 121.000 L 464.400 180.000" fill="none" stroke="#ACC8C3" stroke-width="0.8" />
+    <path d="M 490.800 121.000 L 490.800 180.000" fill="none" stroke="#ACC8C3" stroke-width="0.8" />
+    <path d="M 517.200 121.000 L 517.200 180.000" fill="none" stroke="#ACC8C3" stroke-width="0.8" />
+    <path d="M 543.600 121.000 L 543.600 180.000" fill="none" stroke="#ACC8C3" stroke-width="0.8" />
+    <path d="M 438.000 140.667 L 570.000 140.667" fill="none" stroke="#ACC8C3" stroke-width="0.8" />
+    <path d="M 438.000 160.333 L 570.000 160.333" fill="none" stroke="#ACC8C3" stroke-width="0.8" />
+    <path d="M 880.667 136.000 L 884.167 132.500 L 895.500 132.500 L 892.000 136.000 Z" fill="#E0D1DD" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 892.000 136.000 L 895.500 132.500 L 895.500 163.500 L 892.000 167.000 Z" fill="#C7B0C4" stroke="#74566E" stroke-width="1.15" />
+    <rect x="880.6666666666667" y="136" width="11.333333333333334" height="31" fill="#F0E8EE" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 867.333 136.000 L 870.833 132.500 L 882.167 132.500 L 878.667 136.000 Z" fill="#E0D1DD" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 878.667 136.000 L 882.167 132.500 L 882.167 163.500 L 878.667 167.000 Z" fill="#C7B0C4" stroke="#74566E" stroke-width="1.15" />
+    <rect x="867.3333333333334" y="136" width="11.333333333333334" height="31" fill="#F0E8EE" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 854.000 136.000 L 857.500 132.500 L 868.833 132.500 L 865.333 136.000 Z" fill="#E0D1DD" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 865.333 136.000 L 868.833 132.500 L 868.833 163.500 L 865.333 167.000 Z" fill="#C7B0C4" stroke="#74566E" stroke-width="1.15" />
+    <rect x="854.0" y="136" width="11.333333333333334" height="31" fill="#F0E8EE" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 840.667 136.000 L 844.167 132.500 L 855.500 132.500 L 852.000 136.000 Z" fill="#E0D1DD" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 852.000 136.000 L 855.500 132.500 L 855.500 163.500 L 852.000 167.000 Z" fill="#C7B0C4" stroke="#74566E" stroke-width="1.15" />
+    <rect x="840.6666666666666" y="136" width="11.333333333333334" height="31" fill="#F0E8EE" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 827.333 136.000 L 830.833 132.500 L 842.167 132.500 L 838.667 136.000 Z" fill="#E0D1DD" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 838.667 136.000 L 842.167 132.500 L 842.167 163.500 L 838.667 167.000 Z" fill="#C7B0C4" stroke="#74566E" stroke-width="1.15" />
+    <rect x="827.3333333333334" y="136" width="11.333333333333334" height="31" fill="#F0E8EE" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 814.000 136.000 L 817.500 132.500 L 828.833 132.500 L 825.333 136.000 Z" fill="#E0D1DD" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 825.333 136.000 L 828.833 132.500 L 828.833 163.500 L 825.333 167.000 Z" fill="#C7B0C4" stroke="#74566E" stroke-width="1.15" />
+    <rect x="814.0" y="136" width="11.333333333333334" height="31" fill="#F0E8EE" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 800.667 136.000 L 804.167 132.500 L 815.500 132.500 L 812.000 136.000 Z" fill="#E0D1DD" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 812.000 136.000 L 815.500 132.500 L 815.500 163.500 L 812.000 167.000 Z" fill="#C7B0C4" stroke="#74566E" stroke-width="1.15" />
+    <rect x="800.6666666666666" y="136" width="11.333333333333334" height="31" fill="#F0E8EE" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 787.333 136.000 L 790.833 132.500 L 802.167 132.500 L 798.667 136.000 Z" fill="#E0D1DD" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 798.667 136.000 L 802.167 132.500 L 802.167 163.500 L 798.667 167.000 Z" fill="#C7B0C4" stroke="#74566E" stroke-width="1.15" />
+    <rect x="787.3333333333334" y="136" width="11.333333333333334" height="31" fill="#F0E8EE" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 774.000 136.000 L 777.500 132.500 L 788.833 132.500 L 785.333 136.000 Z" fill="#E0D1DD" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 785.333 136.000 L 788.833 132.500 L 788.833 163.500 L 785.333 167.000 Z" fill="#C7B0C4" stroke="#74566E" stroke-width="1.15" />
+    <rect x="774.0" y="136" width="11.333333333333334" height="31" fill="#F0E8EE" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 760.667 136.000 L 764.167 132.500 L 775.500 132.500 L 772.000 136.000 Z" fill="#E0D1DD" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 772.000 136.000 L 775.500 132.500 L 775.500 163.500 L 772.000 167.000 Z" fill="#C7B0C4" stroke="#74566E" stroke-width="1.15" />
+    <rect x="760.6666666666666" y="136" width="11.333333333333334" height="31" fill="#F0E8EE" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 747.333 136.000 L 750.833 132.500 L 762.167 132.500 L 758.667 136.000 Z" fill="#E0D1DD" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 758.667 136.000 L 762.167 132.500 L 762.167 163.500 L 758.667 167.000 Z" fill="#C7B0C4" stroke="#74566E" stroke-width="1.15" />
+    <rect x="747.3333333333334" y="136" width="11.333333333333334" height="31" fill="#F0E8EE" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 734.000 136.000 L 737.500 132.500 L 748.833 132.500 L 745.333 136.000 Z" fill="#E0D1DD" stroke="#74566E" stroke-width="1.15" />
+    <path d="M 745.333 136.000 L 748.833 132.500 L 748.833 163.500 L 745.333 167.000 Z" fill="#C7B0C4" stroke="#74566E" stroke-width="1.15" />
+    <rect x="734.0" y="136" width="11.333333333333334" height="31" fill="#F0E8EE" stroke="#74566E" stroke-width="1.15" />
+  </g>
+  <g id="labels">
+    <text x="72" y="57" fill="#506B82" font-size="23" text-anchor="start" font-weight="bold" font-family="Microsoft YaHei">从历史窗口到多步预测</text>
+    <text x="172" y="225" fill="#23303A" font-size="23" text-anchor="middle" font-weight="bold" font-family="Microsoft YaHei">历史输入</text>
+    <text x="505" y="225" fill="#23303A" font-size="23" text-anchor="middle" font-weight="bold" font-family="Microsoft YaHei">时空特征</text>
+    <text x="813" y="225" fill="#23303A" font-size="23" text-anchor="middle" font-weight="bold" font-family="Microsoft YaHei">未来 12 步预测</text>
+    <text x="172" y="257" fill="#23303A" font-size="18" text-anchor="middle" font-weight="normal" font-family="Times New Roman">B × C × N × T</text>
+    <text x="505" y="257" fill="#23303A" font-size="18" text-anchor="middle" font-weight="normal" font-family="Times New Roman">B × C′ × N × T</text>
+    <text x="813" y="257" fill="#23303A" font-size="18" text-anchor="middle" font-weight="normal" font-family="Times New Roman">B × 12 × N × 1</text>
+  </g>
+</svg>

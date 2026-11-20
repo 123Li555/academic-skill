@@ -1,0 +1,3 @@
+interface:
+  display_name: "科研架构绘图流程"
+  short_description: "低饱和轴测科研架构与技术路线图，支持矢量导出及 PowerPoint 原生编辑"
